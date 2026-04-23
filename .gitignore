@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+
+# Pipeline data
+input/
+output/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
